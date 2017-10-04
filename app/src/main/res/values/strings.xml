@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="send">Send</string>
+    <string name="pass_label">Password</string>
+    <string name="name_label">Name</string>
+    <string name="password" />
+    <string name="wrong" />
+    <string name="radio1" />
+    <string name="radio2" />
+    <string-array name="spinnerId">
+        <item>Student</item>
+        <item>Undergraduate</item>
+        <item>Worker</item>
+    </string-array>
+</resources>
